@@ -17,7 +17,7 @@ const products = [
         category: 'assinaturas',
         description: ' 14 DIAS DE GARANTIA E SURPORTE',
         stock: 999,
-        badge: 'ASSINATURA'
+        badge: ''
     },
     {
         id: 'DISNEY PREMIUM + CANVA [30 DIAS] ',
@@ -26,7 +26,7 @@ const products = [
         category: 'assinaturas',
         description: ' 14 DIAS DE GARANTIA E SURPORTE',
         stock: 999,
-        badge: 'ASSINATURA'
+        badge: ''
     },
     {
         id: 'LINK YOUTUBE PREMIUM & MUSIC + CANVA [30 DIAS',
@@ -35,7 +35,7 @@ const products = [
         category: 'assinaturas',
         description: ' 14 DIAS DE GARANTIA E SURPORTE',
         stock: 999,
-        badge: 'ASSINATURA'
+        badge: ''   
     },
     {
         id: 'HBO/MAX + CANVA [30 DIAS] ',
@@ -44,7 +44,7 @@ const products = [
         category: 'assinaturas',
         description: ' 14 DIAS DE GARANTIA E SURPORTE',
         stock: 999,
-        badge: 'ASSINATURA'
+        badge: ''
     },
     {
         id: 'DISNEY/STAR + HBO/MAX + PRIME + APPLE TV [30 DIAS] ',
@@ -53,8 +53,109 @@ const products = [
         category: 'assinaturas',
         description: ' 14 DIAS DE GARANTIA E SURPORTE',
         stock: 999,
-        badge: 'ASSINATURA'
+        badge: ''
     },
+    {
+        id: '[7 DIAS] DISNEY/STAR + CANVA 7 DIAS DE GARANTIA ',
+        name: '[7 DIAS] DISNEY/STAR + CANVA 7 DIAS DE GARANTIA ',
+        price: 7.00,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: 'PRIME VIDEO + PARAMOUNT + HBO/MAX [30 DIAS] ',
+        name: 'PRIME VIDEO + PARAMOUNT + HBO/MAX [30 DIAS] ',
+        price: 8.99,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '[15 DIAS] HBO/MAX CANVA [15 DIAS DE GARANTIA] ',
+        name: '[15 DIAS] HBO/MAX CANVA [15 DIAS DE GARANTIA]  ',
+        price: 5.99,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '[10 DIAS] PARAMOUNT + PRIME VIDEO [10 DIAS DE GARANΤΙΑ  ',
+        name: '[10 DIAS] PARAMOUNT + PRIME VIDEO [10 DIAS DE GARANΤΙΑ  ',
+        price: 5.99,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '[10 DIAS] HBO/MAX + PARAMOUNT 10 DIAS DE GARANTIA ',
+        name: '[10 DIAS] HBO/MAX + PARAMOUNT 10 DIAS DE GARANTIA ',
+        price: 5.99,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '[14 DIAS] CRUNCHYROLL + CANVA 14 DIAS DE GARANTIA ',
+        name: '[14 DIAS] CRUNCHYROLL + CANVA 14 DIAS DE GARANTIA ',
+        price: 4.99,
+        category: 'assinaturas',
+        description: ' 14 DIAS DE GARANTIA E SURPORTE',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: 'PASSE BOOYAH PREMIUM FREE FIRE ',
+        name: 'PASSE BOOYAH PREMIUM FREE FIRE ',
+        price: 8.99,
+        category: 'free_fire',
+        description: 'ENTRE VIA ID EM ATE 10 MINUTOS',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: 'CONTA FREE FIRE LV 15 COM DIAMANTES',
+        name: 'CONTA FREE FIRE LV 15 COM DIAMANTES',
+        price: 18,
+        category: 'free_fire',
+        description: '🟢LEVEL 15 +300 DIMAS +20K OURO COM SKIN REI CAVEIRA (acompanha personagens aleatórios)+TROCA NICK',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '1k de seguidores brasileiros',
+        name: '1k de seguidores brasileiros',
+        price: 38,
+        category: 'instagram',
+        description: '♻️ **Garantia** - Garantia de 30 dias para reposição de seguidores/curtidas/views em caso de quedas. A chance de quedas é baixa, mas você tem direito à reposição durante o período garantido.',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '1k de seguidores mundiais',
+        name: '1k de seguidores mundiais',
+        price: 19,
+        category: 'instagram',
+        description: '♻️ **Garantia** - Garantia de 30 dias para reposição de seguidores/curtidas/views em caso de quedas. A chance de quedas é baixa, mas você tem direito à reposição durante o período garantido.',
+        stock: 999,
+        badge: ''
+    },
+    {
+        id: '100 seguidores brasileiros',
+        name: '100 seguidores brasileiros',
+        price: 6.90,
+        category: 'instagram',
+        description: '♻️ **Garantia** - Garantia de 30 dias para reposição de seguidores/curtidas/views em caso de quedas. A chance de quedas é baixa, mas você tem direito à reposição durante o período garantido.',
+        stock: 999,
+        badge: ''
+    },
+
+    
     
         
 ];
